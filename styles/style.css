@@ -1,7 +1,7 @@
 body{
 	background-color: black;
 	text-align: center;
-	font-family: 'Courier New', Courier, monospace;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	color: yellowgreen;
 	font-size: 10 px;
 	margin: 0;
@@ -16,5 +16,6 @@ h2{
 	width: 70%;
 	padding: 1em;
 	border: 1px solid yellowgreen;
+	text-align: justify;
 	margin: 0 auto;
 }
